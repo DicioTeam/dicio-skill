@@ -1,3 +1,6 @@
+> [!WARNING]
+> This repository is archived since the skill interfaces are now part of [`dicio-android`](https://github.com/DicioTeam/dicio-android) under the `skill/` submodule.
+
 # Skills for Dicio assistant
 This tool provides an interface to create **multiplatform skills**. A skill is something that tries to provide an **answer to a request** from the user. It provides a fitness score based on user input (i.e. is it a query this skill is able to answer?) and provides the application using this library all of the needed data to respond to the user. A full skill is made up of **multiple separate components**, which process the data in a sort of *assembly line* to produce an output displayable to the user.
 
